@@ -1,4 +1,4 @@
-# tradingsys
+# Crypto Trading System
 
 [![MIT licensed](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE-MIT)
 
@@ -271,3 +271,7 @@ if __name__ == "__main__":
     demo = Demo(sub)
     eng.run()
 ```
+
+## Disclaimer
+
+This trading system is provided for educational purposes only. It is strictly prohibited for commercial use. Investing involves risks, and individuals who choose to use this system for personal purposes do so at their own risk. The creators and providers of this trading system shall not be held responsible for any losses incurred as a result of its use. Users are advised to exercise caution and conduct their own research before making any investment decisions. By using this trading system, you agree to indemnify and hold harmless the creators and providers from any liability arising from its use.
